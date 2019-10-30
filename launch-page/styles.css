@@ -1,0 +1,31 @@
+.jumbotron .text-center {
+    background-image: url('/red-white-motor.png'); */
+    width: 100%;
+}
+.img-container {
+    background-image: url('/red-white-motor.png');
+    background-position: center;
+}
+.body .img-container-two {
+    background-image: url('/green.png');
+    background-repeat: no-repeat;
+}
+.img-container-three {
+    background-image: url('/boots.png');
+    background-size 400px;
+}
+
+h1 {
+    color:  lightgreen;
+  }
+
+p.lead1 {
+    color: white;
+    font-size: 35px;
+    text-shadow: lightgreen;
+  }
+
+  div .col-lg-4{
+    background-image: url(mximage.jpg);
+    background-blend-mode: 
+  }
